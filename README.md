@@ -3,7 +3,7 @@
 
   ## Description
   ```
-  test
+  This is a project using Javascript and Inquirer(v8.2.4) to create a prompt that asks the user questions to create a professional readme file.
   ```
 
   ## Table of Contents
@@ -17,38 +17,35 @@
   
   ## Installation
   ```
-  tes
+  :
   ```
 
   ## Usage
   ```
-  t
+  :
   ```
 
   ## License
-  ## License
 
-
-
-undefinedFor more information about the license, click [here](function link() { [native code] }).
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) For more information, navigate to: (https://opensource.org/licenses/MIT)
 
   ## Contribution
   ```
-  t
+  Robert Kaiser
   ```
 
   ## Test
   ```
-  t
+  N/A
   ```
 
   ## Questions
   If you have any questions, please contact me at:
-  - [GitHub Repository](https://t.github.io/)
-  - [Email](mailto:t)
+  - [GitHub Repository](https://robkaiser97.github.io/)
+  - [Email](mailto:kaiserrobert1997@gmail.com)
 
   ## Live Project
-  - [Live Project](https://t)
+  - [Live Project](https://robkaiser97.github.io/Readme-Markdown-Generator)
 
-
+  - [Return to Top](#description)
   
