@@ -28,7 +28,7 @@
   4. Enter the contents of your readme file
   5. File will be saved on completion
   ```
-
+  ![alt-text](./assets/images/preview.gif)
   ## License
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) For more information, navigate to: (https://opensource.org/licenses/MIT)
