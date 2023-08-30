@@ -17,12 +17,16 @@
   
   ## Installation
   ```
-  :
+  Download repo from github
   ```
 
   ## Usage
   ```
-  :
+  1. Open Repo content in code editor of your choice
+  2. Open the CLI
+  3. Type "node index"
+  4. Enter the contents of your readme file
+  5. File will be saved on completion
   ```
 
   ## License
