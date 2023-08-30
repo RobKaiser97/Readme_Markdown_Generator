@@ -28,7 +28,9 @@
   4. Enter the contents of your readme file
   5. File will be saved on completion
   ```
-  ![alt-text](./assets/images/preview.gif)
+  ![alt-text](./assets/preview.gif)
+  
+  Example video can also be viewed here: (https://drive.google.com/file/d/17viQhVsrLAzrkVR16-hOq4pI6w-_swZZ/view)
   ## License
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) For more information, navigate to: (https://opensource.org/licenses/MIT)
