@@ -27,6 +27,7 @@ Download repo from github
 ```
 1. Open Repo content in code editor of your choice
 2. Open the CLI
+3. Run "npm i" To install required dependencies
 3. Type "node index"
 4. Enter the contents of your readme file
 5. File will be saved on completion
