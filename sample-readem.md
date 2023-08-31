@@ -28,7 +28,7 @@
 
   ## License
 
-  "This will be the license selected by the user and the link to the license"
+  "This will be a badge of the license selected by the user and the link to the license"
 
   ## Contribution
   \`\`\`
