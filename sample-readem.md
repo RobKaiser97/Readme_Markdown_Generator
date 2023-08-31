@@ -1,10 +1,10 @@
 #This is an example of the Readme structure being created with the program
 
-# ${data.title}
+# "This will be a title entered by the user"
 
   ## Description
   \`\`\`
-  ${data.description}
+  "This will be a Description entered by the user"
   \`\`\`
 
   ## Table of Contents
@@ -18,34 +18,36 @@
   
   ## Installation
   \`\`\`
-  ${data.installation}
+  "This will be a Installation instructions entered by the user"
   \`\`\`
 
   ## Usage
   \`\`\`
-  ${data.usage}
+  "This is how the creator will tell the user how to interact with the program"
   \`\`\`
 
   ## License
 
-  ${renderLicenseBadge(data.license)} For more information, navigate to: ${renderLicenseLink(data.license)}
+  "This will be the license selected by the user and the link to the license"
 
   ## Contribution
   \`\`\`
-  ${data.contribution}
+  "This will be the contributors entered by the user"
   \`\`\`
 
   ## Test
   \`\`\`
-  ${data.test}
+  "This will be test instructions entered by the user"
   \`\`\`
 
   ## Questions
+  "This will be the users github and email links"
   If you have any questions, please contact me at:
   - [GitHub Repository](https://${data.github}.github.io/)
   - [Email](mailto:${data.email})
 
   ## Live Project
+  "This will be a link to the users live project"
   - [Live Project](https://${data.liveLink})
 
   - [Return to Top](#description)
