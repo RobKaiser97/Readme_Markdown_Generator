@@ -51,7 +51,7 @@
   - [Email](mailto:kaiserrobert1997@gmail.com)
 
   ## Live Project
-  - [Live Project](https://robkaiser97.github.io/Readme-Markdown-Generator)
+  - [Live Project](https://robkaiser97.github.io/Readme_Markdown_Generator/)
 
   - [Return to Top](#description)
   
